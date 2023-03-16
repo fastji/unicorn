@@ -89,3 +89,7 @@ rust_build
 [Oo]bj/
 packages/
 cmocka/
+
+
+cmake-build-debug
+.idea
