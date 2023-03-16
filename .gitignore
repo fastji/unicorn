@@ -90,6 +90,8 @@ rust_build
 packages/
 cmocka/
 
-
+#################
+## Jetbrains IDEA
+#################
 cmake-build-debug
 .idea
